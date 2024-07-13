@@ -1,8 +1,24 @@
-# 欢迎来到——LafiteWu的个人网站！
-LafiteWu是一位Minecraft玩家，会C++，Python，Java等语言。
+# LafiteWu
 
-QQ：
-  
-  3357930161
 
-改页面仍要完善！！！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[NameMC](https://namemc.com/profile/LafiteWu.1) [2b2t.xin](https://www.2b2t.xin/home.php?mod=space&uid=8229)
+
+此页面仍需完善。
