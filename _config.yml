@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "LafiteWzx's Website"
-title_separator          : "LafiteWzx的个人站"
+title                    : "LafiteWzx的个人站"
+title_separator          : " - "
 name                     : &name "LafiteWzx"
-description              : &description "A Programmer who Love Scratch"
+description              : &description "一个喜爱Scratch的编程爱好家"
 url                      : https://lafitewzx.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LafiteWzx/LafiteWzx.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Lafite Wzx"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "People's Republic of China"
-  employer         : "Red Brick University"
+  bio              : "一个喜爱Scratch的编程爱好家"
+  location         : "中华人民共和国"
+  employer         : "Shenzhen Luohu Hubei Primary School"
   uri              : # URL
   email            : "3357930161@qq.com" 
 
