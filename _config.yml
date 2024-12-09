@@ -21,7 +21,7 @@ repository               : "LafiteWzx/LafiteWzx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LafiteWu.png"
   name             : "Lafite Wzx"
   pronouns         : # example: "he/him"  
   bio              : "一个喜爱Scratch的编程爱好家"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -155,7 +155,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
+  - 文件
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
